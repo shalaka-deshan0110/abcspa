@@ -1,0 +1,13 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/js/user.js": "/js/user.js",
+    "/js/users.js": "/js/users.js",
+    "/js/reset-password.js": "/js/reset-password.js",
+    "/js/forgot-password.js": "/js/forgot-password.js",
+    "/css/app.css": "/css/app.css",
+    "/js/customer.js": "/js/customer.js",
+    "/js/home.js": "/js/home.js",
+    "/js/dashboard.js": "/js/dashboard.js",
+    "/js/login.js": "/js/login.js",
+    "/js/register.js": "/js/register.js"
+}
